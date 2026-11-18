@@ -91,7 +91,7 @@ automated-posting/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MAliSheikh/Practical-Test.git
+git clone https://github.com/MAliSheikh/automated-posting.git
 cd Practical-Test/automated-posting
 ```
 
